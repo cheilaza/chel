@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Cheila</h1>
-<h3 align="center">An Information Technology Education student currently exploring the fundamentals of data management, digital systems, and information organization. Eager to learn about electronic document management and digital archiving techniques to build efficient, back-office data workflows.</h3>
+<h1 align="left">Welcome to my page👀</h1>
+<h3 align="justify">An Information Technology Education student currently exploring the fundamentals of data management, digital systems, and information organization. Eager to learn about electronic document management and digital archiving techniques to build efficient, back-office data workflows.</h3>
 
 - 🌱 I’m currently learning **C++ & Web Development**
-
 - 📫 How to reach me **cheilaazhalia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
